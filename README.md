@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @papizensai
 - 👀 I’m interested in penetration. 
-- 🌱 I’m currently learning, how to program, but I am studying Linux commands in my personal time. 
-- 💞️ I’m looking to collaborate on finishing my degree. 
-- 📫 How to reach me ..., don't. 
+- 🌱 I’m currently studying Linux in my personal time. 
+- 💞️ I’m looking to collaborate. 
+- 📫 How to reach me .... don't. 
 
 <!---
 papizensai/papizensai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
